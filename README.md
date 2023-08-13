@@ -5,7 +5,6 @@
 <br>
 <p>
   <a href="https://velog.io/@hyeond0" target="_blank"> <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white"> </a>
-  <a href="a98792530@gmail.com" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </p>
 
 
