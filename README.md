@@ -1,7 +1,7 @@
 <div align=center>
   
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=250&section=header&text=Hi%20there👋%20This%20is%20Hyun%20do%20Jeong&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=250&section=header&text=Hi%20there👋%20This%20is%20Hyeon%20do%20Jeong&fontSize=35)
 
 
 <br>
